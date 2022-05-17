@@ -1,0 +1,14 @@
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\bin\Debug\netcoreapp3.1\Recebe Valores Inteiros.exe
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\bin\Debug\netcoreapp3.1\Recebe Valores Inteiros.deps.json
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\bin\Debug\netcoreapp3.1\Recebe Valores Inteiros.runtimeconfig.json
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\bin\Debug\netcoreapp3.1\Recebe Valores Inteiros.runtimeconfig.dev.json
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\bin\Debug\netcoreapp3.1\Recebe Valores Inteiros.dll
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\bin\Debug\netcoreapp3.1\Recebe Valores Inteiros.pdb
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.csproj.AssemblyReference.cache
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.AssemblyInfoInputs.cache
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.AssemblyInfo.cs
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.csproj.CoreCompileInputs.cache
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.dll
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.pdb
+C:\repositorioleandro\Recebe Valores Inteiros\Recebe Valores Inteiros\obj\Debug\netcoreapp3.1\Recebe Valores Inteiros.genruntimeconfig.cache
